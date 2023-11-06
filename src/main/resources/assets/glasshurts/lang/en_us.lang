@@ -1,0 +1,5 @@
+death.attack.glass_damage=%s got cut to pieces
+death.attack.glass_eating_damage=%s tried to eat glass as a last resort
+
+item.glasshurts.glass_shard.name=Glass Shard
+item.glasshurts.leather_gloves.name=Leather Gloves
