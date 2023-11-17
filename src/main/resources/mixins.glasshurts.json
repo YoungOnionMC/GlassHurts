@@ -1,0 +1,10 @@
+{
+  "package": "com.youngonion.glasshurts.core.mixin",
+  "refmap": "mixins.glasshurts.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BlockGlassMixin"
+  ]
+}
